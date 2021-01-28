@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Plus on est loin, moins on est près
 Use the left arrow to go back!
